@@ -25,7 +25,7 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "Trying learn rust as first language, I use linux as main OS.",
+    "subtitle": "Trying learn rust as first language, Use linux as main OS.",
     "typing": false,
     "avatarShape": "cookie12",
     "chips": [

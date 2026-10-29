@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "login": "L1oly",
+  "seed": "#5C7CFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "about",
+    "socials",
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "",
+    "subtitle": "Trying learn rust as first language, I use linux as main OS.",
+    "typing": false,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Ukraine"
+      },
+      {
+        "icon": "brand:fedora",
+        "label": "Fedora minimal + nixpkgs"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "OS I've used",
+        "items": [
+          {
+            "icon": "brand:android",
+            "label": "Crdroid 4+ months (now)"
+          },
+          {
+            "icon": "brand:fedora",
+            "label": "Fedora 2+ months (now)"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "Arch 5+ months"
+          },
+          {
+            "icon": "brand:google",
+            "label": "PixelOS 9+ months"
+          },
+          {
+            "icon": "desktop_windows",
+            "label": "Windows 11 4+ years"
+          },
+          {
+            "icon": "laptop_windows",
+            "label": "Windows 10 2+ years"
+          },
+          {
+            "icon": "brand:xiaomi",
+            "label": "MIUI 4+ years"
+          }
+        ]
+      },
+      {
+        "title": "what i had made",
+        "items": [
+          {
+            "icon": "brand:svgtrace",
+            "label": "SVG icons"
+          },
+          {
+            "icon": "terminal",
+            "label": "Build scripts (PKGBUILD, .spec))"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "Modified GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "terra",
+      "dots"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": false
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}

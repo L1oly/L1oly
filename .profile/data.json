@@ -1,7 +1,7 @@
 {
- "key": "159cac9f",
+ "key": "a344807c",
  "stars": 0,
- "contributions": 49,
+ "contributions": 54,
  "repos": 6,
  "followers": 0,
  "languages": [
@@ -128,7 +128,7 @@
     "today": false
    },
    {
-    "c": 20,
+    "c": 25,
     "day": 30,
     "today": true
    },
@@ -141,13 +141,44 @@
  },
  "pins": [
   {
-   "name": "lawnicons",
-   "url": "https://github.com/L1oly/lawnicons",
-   "text": "Adds themed icons to Lawnchair.",
-   "fork": true,
+   "name": "copr-monorepo",
+   "url": "https://github.com/L1oly/copr-monorepo",
+   "text": ".spec(s) of my copr packages",
+   "fork": false,
    "stars": 0,
-   "language": "Kotlin",
+   "language": "HCL",
    "topics": []
+  },
+  {
+   "name": "lawnicons",
+   "url": "https://github.com/LawnchairLauncher/lawnicons",
+   "text": "Monochrome outlined brand icons for Android launchers.",
+   "fork": false,
+   "stars": 2138,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "icons-provider",
+    "iconpack"
+   ]
+  },
+  {
+   "name": "packages",
+   "url": "https://github.com/terrapkg/packages",
+   "text": "Monorepo for Terra Packages",
+   "fork": false,
+   "stars": 663,
+   "language": "Rhai",
+   "topics": [
+    "fedora",
+    "rpm",
+    "dnf",
+    "fyra",
+    "package",
+    "package-repository",
+    "anda",
+    "enterprise-linux"
+   ]
   },
   {
    "name": "dots",
@@ -181,7 +212,7 @@
   {
    "name": "copr-monorepo",
    "url": "https://github.com/L1oly/copr-monorepo",
-   "text": "",
+   "text": ".spec(s) of my copr packages",
    "fork": false,
    "stars": 0,
    "language": "HCL",

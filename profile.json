@@ -114,8 +114,10 @@
   "projects": {
     "source": "manual",
     "repos": [
-      "terra",
-      "dots"
+      "copr-monorepo",
+      "dots",
+      "lawnicons",
+      "terra"
     ],
     "overrides": {},
     "empty": "No description yet.",

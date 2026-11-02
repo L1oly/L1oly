@@ -101,7 +101,7 @@
           },
           {
             "icon": "terminal",
-            "label": "Build scripts (PKGBUILD, .spec))"
+            "label": "Build scripts (PKGBUILD, .spec)"
           },
           {
             "icon": "brand:githubactions",

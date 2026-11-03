@@ -1,5 +1,5 @@
 {
- "key": "521c86bf",
+ "key": "f15bf71c",
  "stars": 0,
  "contributions": 64,
  "repos": 6,
@@ -142,7 +142,7 @@
    "url": "https://github.com/LawnchairLauncher/lawnicons",
    "text": "Monochrome outlined brand icons for Android launchers.",
    "fork": false,
-   "stars": 2142,
+   "stars": 2143,
    "language": "Kotlin",
    "topics": [
     "android",
@@ -155,7 +155,7 @@
    "url": "https://github.com/terrapkg/packages",
    "text": "Monorepo for Terra Packages",
    "fork": false,
-   "stars": 664,
+   "stars": 666,
    "language": "Rhai",
    "topics": [
     "fedora",

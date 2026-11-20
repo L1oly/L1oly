@@ -1,5 +1,5 @@
 {
- "key": "aac7a919",
+ "key": "12eea65a",
  "stars": 0,
  "contributions": 96,
  "repos": 8,
@@ -175,7 +175,7 @@
    "url": "https://github.com/terrapkg/packages",
    "text": "Monorepo for Terra Packages",
    "fork": false,
-   "stars": 687,
+   "stars": 688,
    "language": "Rhai",
    "topics": [
     "fedora",

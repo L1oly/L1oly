@@ -1,5 +1,5 @@
 {
- "key": "aefde6b7",
+ "key": "570592c",
  "stars": 0,
  "contributions": 96,
  "repos": 8,
@@ -35,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 0,
-    "day": 1,
-    "today": false
-   },
-   {
-    "c": 4,
-    "day": 2,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 3,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 4,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 5,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 6,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 7,
-    "today": false
-   }
-  ],
   [
    {
     "c": 4,
@@ -143,8 +106,21 @@
    {
     "c": 0,
     "day": 21,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 22,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
@@ -179,7 +155,7 @@
    "url": "https://github.com/terrapkg/packages",
    "text": "Monorepo for Terra Packages",
    "fork": false,
-   "stars": 689,
+   "stars": 690,
    "language": "Rhai",
    "topics": [
     "fedora",

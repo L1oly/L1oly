@@ -1,5 +1,5 @@
 {
- "key": "94cf9cb0",
+ "key": "a5a9cf8f",
  "stars": 0,
  "contributions": 97,
  "repos": 8,
@@ -123,16 +123,20 @@
    {
     "c": 0,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 3
  },
  "pins": [
@@ -163,7 +167,7 @@
    "url": "https://github.com/terrapkg/packages",
    "text": "Monorepo for Terra Packages",
    "fork": false,
-   "stars": 691,
+   "stars": 692,
    "language": "Rhai",
    "topics": [
     "fedora",

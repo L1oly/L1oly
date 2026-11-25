@@ -1,9 +1,9 @@
 {
- "key": "a5a9cf8f",
+ "key": "dc7b7ecf",
  "stars": 0,
  "contributions": 97,
  "repos": 8,
- "followers": 0,
+ "followers": 1,
  "languages": [
   [
    "Rust",
@@ -154,7 +154,7 @@
    "url": "https://github.com/LawnchairLauncher/lawnicons",
    "text": "Monochrome outlined brand icons for Android launchers.",
    "fork": false,
-   "stars": 2157,
+   "stars": 2156,
    "language": "Kotlin",
    "topics": [
     "android",
